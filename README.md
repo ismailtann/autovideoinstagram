@@ -8,3 +8,4 @@ Bu proje; Google Gemini, ElevenLabs ve OpenAI Whisper teknolojilerini kullanarak
 
 ```bash
 pip install google-genai requests openai-whisper
+winget install ffmpeg
