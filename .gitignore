@@ -1,0 +1,8 @@
+# Medya Dosyaları
+stok_videolar/
+sesler/
+altyazilar/
+bitmis_videolar/
+
+# Python Çöpleri
+__pycache__/
